@@ -1,0 +1,1346 @@
+{
+    "prompts": [
+      {
+        "prompt": "hypertension",
+        "answer": "us callosum\naHypertension as defined by the National High Blood Pressure Education Program (NHBPEP) Working Group (SBP and DBP ≥95th percentile)\nbPatients with normal blood pressure according to the WHO guidelinesNeuroradiology (2009) 51:373 –383 377",
+        "metadata": {
+          "references": [
+            {
+              "key": "504_CR1",
+              "doi-asserted-by": "crossref",
+              "first-page": "494",
+              "DOI": "10.1056/NEJM199602223340803",
+              "volume": "334",
+              "author": "J Hinchey",
+              "year": "1996",
+              "unstructured": "Hinchey J, Chaves C, Appignani B, Breen J, Pao L, Wang A, Pessin MS, Lamy C, Mas JL, Caplan LR (1996) A reversible posterior leukoencephalopathy syndrome. N Engl J Med 334:494–500. doi: 10.1056/NEJM199602223340803",
+              "journal-title": "N Engl J Med"
+            },
+            {
+              "key": "504_CR2",
+              "doi-asserted-by": "crossref",
+              "first-page": "904",
+              "DOI": "10.2214/AJR.07.2024",
+              "volume": "189",
+              "author": "AM McKinney",
+              "year": "2007",
+              "unstructured": "McKinney AM, Short J, Truwit CL, McKinney ZJ, Kozak OS, SantaCruz KS, Teksam M (2007) Posterior reversible encephalopathy syndrome: incidence of atypical regions of involvement and imaging findings. AJR Am J Roentgenol 189:904–912. doi: 10.2214/AJR.07.2024",
+              "journal-title": "AJR Am J Roentgenol"
+            },
+            {
+              "key": "504_CR3",
+              "first-page": "1038",
+              "volume": "23",
+              "author": "DJ Covarrubias",
+              "year": "2002",
+              "unstructured": "Covarrubias DJ, Luetmer PH, Campeau NG (2002) Posterior reversible encephalopathy syndrome: prognostic utility of quantitative diffusion-weighted MR images. AJNR Am J Neuroradiol 23:1038–1048",
+              "journal-title": "AJNR Am J Neuroradiol"
+            },
+            {
+              "key": "504_CR4",
+              "doi-asserted-by": "crossref",
+              "first-page": "1320",
+              "DOI": "10.3174/ajnr.A0549",
+              "volume": "28",
+              "author": "WS Bartynski",
+              "year": "2007",
+              "unstructured": "Bartynski WS, Boardman JF (2007) Distinct imaging patterns and lesion distribution in posterior reversible encephalopathy syndrome. AJNR Am J Neuroradiol 28:1320–1327. doi: 10.3174/ajnr.A0549",
+              "journal-title": "AJNR Am J Neuroradiol"
+            },
+            {
+              "key": "504_CR5",
+              "first-page": "2179",
+              "volume": "27",
+              "author": "WS Bartynski",
+              "year": "2006",
+              "unstructured": "Bartynski WS, Boardman JF, Zeigler ZR, Shadduck RK, Lister J (2006) Posterior reversible encephalopathy syndrome in infection, sepsis, and shock. AJNR Am J Neuroradiol 27:2179–2190",
+              "journal-title": "AJNR Am J Neuroradiol"
+            },
+            {
+              "key": "504_CR6",
+              "first-page": "415",
+              "volume": "19",
+              "author": "Y Ito",
+              "year": "1998",
+              "unstructured": "Ito Y, Arahata Y, Goto Y, Hirayama M, Nagamutsu M, Yasuda T, Yanagi T, Sobue G (1998) Cisplatin neurotoxicity presenting as reversible posterior leukoencephalopathy syndrome. AJNR Am J Neuroradiol 19:415–417",
+              "journal-title": "AJNR Am J Neuroradiol"
+            },
+            {
+              "key": "504_CR7",
+              "doi-asserted-by": "crossref",
+              "first-page": "129",
+              "DOI": "10.1016/S0730-725X(01)00217-X",
+              "volume": "19",
+              "author": "MT Russell",
+              "year": "2001",
+              "unstructured": "Russell MT, Nassif AS, Cacayorin ED, Awwad E, Perman W, Dunphy F (2001) Gemcitabine-associated posterior reversible encephalopathy syndrome: MR imaging and MR spectroscopy findings. Magn Reson Imaging 19:129–132. doi: 10.1016/S0730-725X(01)00217-X",
+              "journal-title": "Magn Reson Imaging"
+            },
+            {
+              "key": "504_CR8",
+              "doi-asserted-by": "crossref",
+              "first-page": "1563",
+              "DOI": "10.1007/s00415-002-0895-x",
+              "volume": "249",
+              "author": "O Kastrup",
+              "year": "2002",
+              "unstructured": "Kastrup O, Maschke M, Wanke I, Diener HC (2002) Posterior reversible encephalopathy syndrome due to severe hypercalcemia. J Neurol 249:1563–1566. doi: 10.1007/s00415-002-0895-x",
+              "journal-title": "J Neurol"
+            },
+            {
+              "key": "504_CR9",
+              "doi-asserted-by": "crossref",
+              "first-page": "1174",
+              "DOI": "10.1212/WNL.49.4.1174",
+              "volume": "49",
+              "author": "Y Ito",
+              "year": "1997",
+              "unstructured": "Ito Y, Niwa H, Iida T, Nagamatsu M, Yasuda T, Yanagi T, Sobue G (1997) Post-transfusion reversible posterior leukoencephalopathy syndrome with cerebral vasoconstriction. Neurology 49:1174–1175",
+              "journal-title": "Neurology"
+            },
+            {
+              "key": "504_CR10",
+              "doi-asserted-by": "crossref",
+              "first-page": "413",
+              "DOI": "10.1161/01.STR.15.3.413",
+              "volume": "15",
+              "author": "S Strandgaard",
+              "year": "1984",
+              "unstructured": "Strandgaard S, Paulson OB (1984) Cerebral autoregulation. Stroke 15:413–416",
+              "journal-title": "Stroke"
+            },
+            {
+              "key": "504_CR11",
+              "doi-asserted-by": "crossref",
+              "first-page": "I75",
+              "DOI": "10.1161/01.HYP.6.2_Pt_2.I75",
+              "volume": "6",
+              "author": "K Tamaki",
+              "year": "1984",
+              "unstructured": "Tamaki K, Sadoshima S, Baumbach GL, Iadecola C, Reis DJ, Heistad DD (1984) Evidence that disruption of the blood–brain barrier precedes reduction in cerebral blood flow in hypertensive encephalopathy. Hypertension 6:I75–I81",
+              "journal-title": "Hypertension"
+            },
+            {
+              "key": "504_CR12",
+              "doi-asserted-by": "crossref",
+              "first-page": "756",
+              "DOI": "10.1148/radiology.219.3.r01jn48756",
+              "volume": "219",
+              "author": "P Mukherjee",
+              "year": "2001",
+              "unstructured": "Mukherjee P, McKinstry RC (2001) Reversible posterior leukoencephalopathy syndrome: evaluation with diffusion-tensor MR imaging. Radiology 219:756–765",
+              "journal-title": "Radiology"
+            },
+            {
+              "key": "504_CR13",
+              "doi-asserted-by": "crossref",
+              "first-page": "908",
+              "DOI": "10.1016/S0002-9378(88)80169-8",
+              "volume": "159",
+              "author": "GM Rodgers",
+              "year": "1988",
+              "unstructured": "Rodgers GM, Taylor RN, Roberts JM (1988) Preeclampsia is associated with a serum factor cytotoxic to human endothelial cells. Am J Obstet Gynecol 159:908–914",
+              "journal-title": "Am J Obstet Gynecol"
+            },
+            {
+              "key": "504_CR14",
+              "doi-asserted-by": "crossref",
+              "first-page": "555",
+              "DOI": "10.1542/peds.114.2.S2.555",
+              "volume": "114",
+              "author": "National High Blood Pressure Education Program Working Group on High Blood Pressure in Children and Adolescent",
+              "year": "2004",
+              "unstructured": "National High Blood Pressure Education Program Working Group on High Blood Pressure in Children and Adolescent (2004) The fourth report on the diagnosis, evaluation, and treatment of high blood pressure in children and adolescents. Pediatrics 114:555–576. doi: 10.1542/peds.114.2.S2.555",
+              "journal-title": "Pediatrics"
+            },
+            {
+              "key": "504_CR15",
+              "doi-asserted-by": "crossref",
+              "first-page": "353",
+              "DOI": "10.1148/radiographics.18.2.9536483",
+              "volume": "18",
+              "author": "JD Port",
+              "year": "1998",
+              "unstructured": "Port JD, Beauchamp NJ Jr (1998) Reversible intracerebral pathologic entities mediated by vascular autoregulatory dysfunction. Radiographics 18:353–367",
+              "journal-title": "Radiographics"
+            },
+            {
+              "key": "504_CR16",
+              "doi-asserted-by": "crossref",
+              "first-page": "1369",
+              "DOI": "10.1212/WNL.51.5.1369",
+              "volume": "51",
+              "author": "H Ay",
+              "year": "1998",
+              "unstructured": "Ay H, Buonanno FS, Schaefer PW, Le DA, Wang B, Gonzalez RG, Koroshetz WJ (1998) Posterior leukoencephalopathy without severe hypertension: utility of diffusion-weighted MRI. Neurology 51:1369–1376",
+              "journal-title": "Neurology"
+            },
+            {
+              "key": "504_CR17",
+              "first-page": "337",
+              "volume": "17",
+              "author": "O Jansen",
+              "year": "1996",
+              "unstructured": "Jansen O, Krieger D, Krieger S, Sartor K (1996) Cortical hyperintensity on proton density-weighted images: an MR sign of cyclosporine-related encephalopathy. AJNR Am J Neuroradiol 17:337–344",
+              "journal-title": "AJNR Am J Neuroradiol"
+            },
+            {
+              "key": "504_CR18",
+              "doi-asserted-by": "crossref",
+              "first-page": "586",
+              "DOI": "10.1007/s00234-005-1376-6",
+              "volume": "47",
+              "author": "PS Rangi",
+              "year": "2005",
+              "unstructured": "Rangi PS, Partridge WJ, Newlands ES, Waldman AD (2005) Posterior reversible encephalopathy syndrome: a possible late interaction between cytotoxic agents and general anaesthesia. Neuroradiology 47:586–590. doi: 10.1007/s00234-005-1376-6",
+              "journal-title": "Neuroradiology"
+            },
+            {
+              "key": "504_CR19",
+              "doi-asserted-by": "crossref",
+              "first-page": "775",
+              "DOI": "10.1097/00007890-199211000-00002",
+              "volume": "54",
+              "author": "A Benigni",
+              "year": "1992",
+              "unstructured": "Benigni A, Morigi M, Perico N, Zoja C, Amuchastegui CS, Piccinelli A, Donadelli R, Remuzzi G (1992) The acute effect of FK506 and cyclosporine on endothelial cell function and renal vascular resistance. Transplantation 54:775–780. doi: 10.1097/00007890-199211000-00002",
+              "journal-title": "Transplantation"
+            },
+            {
+              "key": "504_CR20",
+              "first-page": "455",
+              "volume": "55",
+              "author": "C Zoja",
+              "year": "1986",
+              "unstructured": "Zoja C, Furci L, Ghilardi F, Zilio P, Benigni A, Remuzzi G (1986) Cyclosporin-induced endothelial cell injury. Lab Invest 55:455–462",
+              "journal-title": "Lab Invest"
+            },
+            {
+              "key": "504_CR21",
+              "doi-asserted-by": "crossref",
+              "first-page": "287",
+              "DOI": "10.1016/S0014-2999(99)00247-2",
+              "volume": "372",
+              "author": "S Kochi",
+              "year": "1999",
+              "unstructured": "Kochi S, Takanaga H, Matsuo H, Naito M, Tsuruo T, Sawada Y (1999) Effect of cyclosporin A or tacrolimus on the function of blood–brain barrier cells. Eur J Pharmacol 372:287–295. doi: 10.1016/S0014-2999(99)00247-2",
+              "journal-title": "Eur J Pharmacol"
+            },
+            {
+              "key": "504_CR22",
+              "doi-asserted-by": "crossref",
+              "first-page": "2255",
+              "DOI": "10.1016/S0024-3205(00)00554-3",
+              "volume": "66",
+              "author": "S Kochi",
+              "year": "2000",
+              "unstructured": "Kochi S, Takanaga H, Matsuo H, Ohtani H, Naito M, Tsuruo T, Sawada Y (2000) Induction of apoptosis in mouse brain capillary endothelial cells by cyclosporin A and tacrolimus. Life Sci 66:2255–2260. doi: 10.1016/S0024-3205(00)00554-3",
+              "journal-title": "Life Sci"
+            },
+            {
+              "key": "504_CR23",
+              "doi-asserted-by": "crossref",
+              "first-page": "97",
+              "DOI": "10.1016/S0014-2999(99)00447-1",
+              "volume": "379",
+              "author": "TA Marsen",
+              "year": "1999",
+              "unstructured": "Marsen TA, Weber F, Egink G, Suckau G, Baldamus CA (1999) Cyclosporin A induces prepro endothelin-1 gene transcription in human endothelial cells. Eur J Pharmacol 379:97–106. doi: 10.1016/S0014-2999(99)00447-1",
+              "journal-title": "Eur J Pharmacol"
+            },
+            {
+              "key": "504_CR24",
+              "first-page": "651",
+              "volume": "12",
+              "author": "CL Truwit",
+              "year": "1991",
+              "unstructured": "Truwit CL, Denaro CP, Lake JR, DeMarco T (1991) MR imaging of reversible cyclosporin A-induced neurotoxicity. AJNR Am J Neuroradiol 12:651–659",
+              "journal-title": "AJNR Am J Neuroradiol"
+            },
+            {
+              "key": "504_CR25",
+              "doi-asserted-by": "crossref",
+              "first-page": "1042",
+              "DOI": "10.1002/cncr.22921",
+              "volume": "110",
+              "author": "A Badros",
+              "year": "2007",
+              "unstructured": "Badros A, Goloubeva O, Dalal JS, Can I, Thompson J, Rapoport AP, Heyman M, Akpek G, Fenton RG (2007) Neurotoxicity of bortezomib therapy in multiple myeloma: a single-center experience and review of the literature. Cancer 110:1042–1049. doi: 10.1002/cncr.22921",
+              "journal-title": "Cancer"
+            },
+            {
+              "key": "504_CR26",
+              "doi-asserted-by": "crossref",
+              "first-page": "1043",
+              "DOI": "10.3174/ajnr.A0929",
+              "volume": "29",
+              "author": "WS Bartynski",
+              "year": "2008",
+              "unstructured": "Bartynski WS (2008) Posterior reversible encephalopathy syndrome, part 2: controversies surrounding pathophysiology of vasogenic edema. AJNR Am J Neuroradiol 29:1043–1049. doi: 10.3174/ajnr.A0929",
+              "journal-title": "AJNR Am J Neuroradiol"
+            },
+            {
+              "key": "504_CR27",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Horbinski C, Bartynski WS, Carson-Walter E, Hamilton RL, Tan HP, Cheng S (2009) Reversible Encephalopathy after Cardiac Transplantation: Histologic Evidence of Endothelial Activation, T-cell Specific Trafficking, and Vascular Endothelial Growth Factor Expression. AJNR Am J Neuroradiol. doi: 10.3174/ajnr.A1311",
+              "DOI": "10.3174/ajnr.A1311"
+            },
+            {
+              "key": "504_CR28",
+              "doi-asserted-by": "crossref",
+              "first-page": "2549",
+              "DOI": "10.1093/brain/awf257",
+              "volume": "125",
+              "author": "HJ Schoch",
+              "year": "2002",
+              "unstructured": "Schoch HJ, Fischer S, Marti HH (2002) Hypoxia-induced vascular endothelial growth factor expression causes vascular leakage in the brain. Brain 125:2549–2557. doi: 10.1093/brain/awf257",
+              "journal-title": "Brain"
+            },
+            {
+              "key": "504_CR29",
+              "doi-asserted-by": "crossref",
+              "first-page": "447",
+              "DOI": "10.3174/ajnr.A0839",
+              "volume": "29",
+              "author": "WS Bartynski",
+              "year": "2008",
+              "unstructured": "Bartynski WS, Boardman JF (2008) Catheter angiography, MR angiography, and MR perfusion in posterior reversible encephalopathy syndrome. AJNR Am J Neuroradiol 29:447–455. doi: 10.3174/ajnr.A0839",
+              "journal-title": "AJNR Am J Neuroradiol"
+            },
+            {
+              "key": "504_CR30",
+              "first-page": "825",
+              "volume": "26",
+              "author": "LM Brubaker",
+              "year": "2005",
+              "unstructured": "Brubaker LM, Smith JK, Lee YZ, Lin W, Castillo M (2005) Hemodynamic and permeability changes in posterior reversible encephalopathy syndrome measured by dynamic susceptibility perfusion-weighted MR imaging. AJNR Am J Neuroradiol 26:825–830",
+              "journal-title": "AJNR Am J Neuroradiol"
+            },
+            {
+              "key": "504_CR31",
+              "doi-asserted-by": "crossref",
+              "first-page": "299",
+              "DOI": "10.1007/s00234-001-0721-7",
+              "volume": "44",
+              "author": "PC Sundgren",
+              "year": "2002",
+              "unstructured": "Sundgren PC, Edvardsson B, Holtas S (2002) Serial investigation of perfusion disturbances and vasogenic oedema in hypertensive encephalopathy by diffusion and perfusion weighted imaging. Neuroradiology 44:299–304. doi: 10.1007/s00234-001-0721-7",
+              "journal-title": "Neuroradiology"
+            },
+            {
+              "key": "504_CR32",
+              "first-page": "189",
+              "volume": "11",
+              "author": "O Demirtas",
+              "year": "2005",
+              "unstructured": "Demirtas O, Gelal F, Vidinli BD, Demirtas LO, Uluc E, Baloglu A (2005) Cranial MR imaging with clinical correlation in preeclampsia and eclampsia. Diagn Interv Radiol 11:189–194",
+              "journal-title": "Diagn Interv Radiol"
+            },
+            {
+              "key": "504_CR33",
+              "doi-asserted-by": "crossref",
+              "first-page": "371",
+              "DOI": "10.1148/radiology.217.2.r00nv44371",
+              "volume": "217",
+              "author": "RB Schwartz",
+              "year": "2000",
+              "unstructured": "Schwartz RB, Feske SK, Polak JF, DeGirolami U, Iaia A, Beckner KM, Bravo SM, Klufas RA, Chai RY, Repke JT (2000) Preeclampsia–eclampsia: clinical and neuroradiographic correlates and insights into the pathogenesis of hypertensive encephalopathy. Radiology 217:371–376",
+              "journal-title": "Radiology"
+            },
+            {
+              "key": "504_CR34",
+              "doi-asserted-by": "crossref",
+              "first-page": "981",
+              "DOI": "10.1007/s00234-001-0741-3",
+              "volume": "44",
+              "author": "Y Watanabe",
+              "year": "2002",
+              "unstructured": "Watanabe Y, Mitomo M, Tokuda Y, Yoshida K, Choi S, Hosoki T, Ban C (2002) Eclamptic encephalopathy: MRI, including diffusion-weighted images. Neuroradiology 44:981–985. doi: 10.1007/s00234-002-0867-y",
+              "journal-title": "Neuroradiology"
+            },
+            {
+              "key": "504_CR35",
+              "doi-asserted-by": "crossref",
+              "first-page": "2323",
+              "DOI": "10.1007/s00134-003-1901-1",
+              "volume": "29",
+              "author": "G Servillo",
+              "year": "2003",
+              "unstructured": "Servillo G, Striano P, Striano S, Tortora F, Boccella P, De Robertis E, Rossano F, Briganti F, Tufano R (2003) Posterior reversible encephalopathy syndrome (PRES) in critically ill obstetric patients. Intensive Care Med 29:2323–2326. doi: 10.1007/s00134-003-1901-1",
+              "journal-title": "Intensive Care Med"
+            },
+            {
+              "key": "504_CR36",
+              "doi-asserted-by": "crossref",
+              "first-page": "138",
+              "DOI": "10.1016/0002-9378(90)90836-V",
+              "volume": "162",
+              "author": "VJ Rappaport",
+              "year": "1990",
+              "unstructured": "Rappaport VJ, Hirata G, Yap HK, Jordan SC (1990) Anti-vascular endothelial cell antibodies in severe preeclampsia. Am J Obstet Gynecol 162:138–146",
+              "journal-title": "Am J Obstet Gynecol"
+            },
+            {
+              "key": "504_CR37",
+              "doi-asserted-by": "crossref",
+              "first-page": "2189",
+              "DOI": "10.1093/brain/awl158",
+              "volume": "129",
+              "author": "JA Feekes",
+              "year": "2006",
+              "unstructured": "Feekes JA, Cassell MD (2006) The vascular supply of the functional compartments of the human striatum. Brain 129:2189–2201. doi: 10.1093/brain/awl158",
+              "journal-title": "Brain"
+            }
+          ],
+          "doi": "10.1007/s00234-009-0504-0",
+          "authors": [
+            {
+              "given": "Christina",
+              "family": "Mueller-Mang",
+              "sequence": "first",
+              "affiliation": []
+            },
+            {
+              "given": "Thomas",
+              "family": "Mang",
+              "sequence": "additional",
+              "affiliation": []
+            },
+            {
+              "given": "Agnes",
+              "family": "Pirker",
+              "sequence": "additional",
+              "affiliation": []
+            },
+            {
+              "given": "Katharina",
+              "family": "Klein",
+              "sequence": "additional",
+              "affiliation": []
+            },
+            {
+              "given": "Christine",
+              "family": "Prchla",
+              "sequence": "additional",
+              "affiliation": []
+            },
+            {
+              "given": "Daniela",
+              "family": "Prayer",
+              "sequence": "additional",
+              "affiliation": []
+            }
+          ],
+          "title": [
+            "Posterior reversible encephalopathy syndrome: do predisposing risk factors make a difference in MRI appearance?"
+          ]
+        },
+        "score": 0.867744625,
+        "pdf_url": "https://inpharmd-ai.s3.amazonaws.com/pdf-March-08-2023-download-cloud/17499414/s00234-009-0504-0.pdf"
+      },
+      {
+        "prompt": "hypertension",
+        "answer": "Hypertension and hypercholesterolaemia 343\nTable 3 Drug treatment of hypertension in France and smoking, and the levels of diastolic blood pressure\nNorthern Ireland or lipid values.\nFrance Northern Test valueFrequency and treatment of hypertension(n=92) Ireland\n(n=22)The prevalence of hypertension (SBP ≥160 mmHg\nand/or DBP ≥95 mmHg and/or on medication) wasDiuretics 47 (43) 59 (13) 1.0828% (165/586) in France and 31% (59/189) inBeta-blockers 36 (33) 36 (8) 0.002Northern Ireland ( p<0.42, Table 1). In France, 70%Calcium-channel 21 (19) 18 (4) p=1.00(115/165) of those with hypertension were aware ofblockers\ntheir status, vs. 58% (34/59) in Northern Ireland ACE inhibitors 42 (39) 9 (2) 8.548 **\n(x2=2.84, p<0.10). Conversely, the proportion who Other 12 (11) 14 (3) p=0.732\nhad been told that they had hypertension was 28%\nData for subjects treated with antihypertensive drugs (163/586) in France and 22% (41/189) in Northern\nonly. Results are percentages (number of subjects). Ireland ( p<0.10). In France, 11% (48/421) of sub-\nPercentages are more than 100 due to multiple jects classified as normotensive reported being told\ntreatments. Analysis by x2test or Fisher’s exact test.on one or more occasions that they were hypertens-**p<0.005.ive; the level was 5% (7/130) in Northern Ireland.\nThese subjects were thus",
+        "metadata": {
+          "references": null,
+          "doi": "10.1093/qjmed/90.5.341",
+          "authors": [
+            {
+              "given": "P",
+              "family": "Marques-Vidal",
+              "sequence": "first",
+              "affiliation": []
+            }
+          ],
+          "title": [
+            "Awareness and control of hypertension and hypercholesterolaemia in France and Northern Ireland"
+          ]
+        },
+        "score": 0.849745095,
+        "pdf_url": "https://academic.oup.com/qjmed/article-pdf/90/5/341/9909813/900341.pdf"
+      },
+      {
+        "prompt": "hypertension",
+        "answer": "Keywords Receptor /C1Adrenergic /C1Alpha-1 /C1\nAutoantibody /C1Hypertension /C1Vasoconstriction\nIntroduction\nDeﬁned as a rise in blood pressure of unknown cause,\nessential hypertension increases risk for cerebral, cardiac,\nand renal events [ 15,16,23]. Essential hypertension plays\na major etiologic role in the development of major car-diovascular disease such as cerebrovascular disease,\nischemic heart disease, cardiac and renal failure, and is\nbecoming an increasingly common health problem world-wide [ 24,28]. In industrialized countries, the risk of\nbecoming hypertensive during a lifetime exceeds 90%.\nWorldwide, hypertension is estimated to cause 7.1 milliondeaths and 4.5% of the disease burden annually [ 27].\nDespite the availability of effective and safe antihyper-\ntensive drugs, hypertension and its concomitant risk factorsremain uncontrolled in a great proportion of patients. The\nmechanisms responsible for the development of essential\nhypertension remain incompletely understood.\nThere exists evidence suggesting primary or secondary\nalterations in the function of the immune system may play\na role in both the initiation and maintenance of thehypertensive state in both animal models and humans\n[4,6]. Investigators have reported the immunogenic\nimportance of the second extracellular loop of the humana\n1-adrenoceptors ( a1-AR) [ 7], and the high frequency of\npatients with primary hypertension [ 9,19] and malignant\nhypertension [ 17] harboring a1-AAB. a1-AAB has been\ndemonstrated to exert a positive chronotropic effect on\nisolated neonatal rat cardiomyocytes [ 19], and stimulating\ntheir activity via activation of L-type calcium channels in",
+        "metadata": {
+          "references": [
+            {
+              "key": "20_CR1",
+              "doi-asserted-by": "crossref",
+              "first-page": "234",
+              "DOI": "10.1139/y03-044",
+              "volume": "81",
+              "author": "G Bkaily",
+              "year": "2003",
+              "unstructured": "Bkaily G, El-Bizri N, Bui M, Sukarieh R, Jacques D, Fu ML (2003) Modulation of intracellular Ca2+ via L-type calcium channels in heart cells by the autoantibody directed against the second extracellular loop of the alpha1-adrenoceptors. Can J Physiol Pharmacol 81:234–246",
+              "journal-title": "Can J Physiol Pharmacol"
+            },
+            {
+              "key": "20_CR2",
+              "doi-asserted-by": "crossref",
+              "first-page": "345",
+              "DOI": "10.1007/s00395-008-0720-5",
+              "volume": "103",
+              "author": "D Bramos",
+              "year": "2008",
+              "unstructured": "Bramos D, Ikonomidis I, Tsirikos N, Kottis G, Kostopoulou V, Pamboucas C, Papadopoulou E, Venetsanou K, Giatrakos N, Yang GZ, Nihoyannopoulos P, Toumanidis S (2008) The association of coronary flow changes and inflammatory indices to ischaemia-reperfusion microvascular damage and left ventricular remodelling. Basic Res Cardiol 103:345–355",
+              "journal-title": "Basic Res Cardiol"
+            },
+            {
+              "key": "20_CR3",
+              "doi-asserted-by": "crossref",
+              "first-page": "328",
+              "DOI": "10.1007/s00395-008-0719-y",
+              "volume": "103",
+              "author": "J Bøkenes",
+              "year": "2008",
+              "unstructured": "Bøkenes J, Aronsen JM, Birkeland JA, Henriksen UL, Louch WE, Sjaastad I, Sejersted OM (2008) Slow contractions characterize failing rat hearts. Basic Res Cardiol 103:328–344",
+              "journal-title": "Basic Res Cardiol"
+            },
+            {
+              "key": "20_CR4",
+              "doi-asserted-by": "crossref",
+              "first-page": "I36",
+              "DOI": "10.1161/01.HYP.19.1_Suppl.I36",
+              "volume": "19",
+              "author": "DJ Dzielak",
+              "year": "1992",
+              "unstructured": "Dzielak DJ (1992) The immune system and hypertension. Hypertension 19:I36–I44",
+              "journal-title": "Hypertension"
+            },
+            {
+              "key": "20_CR5",
+              "doi-asserted-by": "crossref",
+              "first-page": "213",
+              "DOI": "10.1016/0896-8411(92)90201-Z",
+              "volume": "5",
+              "author": "H Eng",
+              "year": "1992",
+              "unstructured": "Eng H, Magnusson Y, Matell G, Lefvert AK, Saponja R, Hoeveke J (1992) Beta 2-adrenergic receptor antibodies in myasthenia gravis. J Autoimmunity 5:213–227",
+              "journal-title": "J Autoimmunity"
+            },
+            {
+              "key": "20_CR6",
+              "doi-asserted-by": "crossref",
+              "first-page": "1259",
+              "DOI": "10.1097/00004872-199511000-00007",
+              "volume": "13",
+              "author": "ML Fu",
+              "year": "1995",
+              "unstructured": "Fu ML (1995) Do immune system changes have a role in hypertension? J Hypertens 13:1259–1265",
+              "journal-title": "J Hypertens"
+            },
+            {
+              "key": "20_CR7",
+              "doi-asserted-by": "crossref",
+              "first-page": "1660",
+              "DOI": "10.1016/S0140-6736(94)90456-1",
+              "volume": "344",
+              "author": "ML Fu",
+              "year": "1994",
+              "unstructured": "Fu ML, Herlitz H, Wallukat G, Hilme E, Hedner T, Hoebeke J, Hjalmarson A (1994) Functional autoimmune epitope on alpha 1-adrenergic receptors in patients with malignant hypertension. Lancet 344:1660–1663",
+              "journal-title": "Lancet"
+            },
+            {
+              "key": "20_CR8",
+              "doi-asserted-by": "crossref",
+              "first-page": "337",
+              "DOI": "10.1177/42.3.8308250",
+              "volume": "42",
+              "author": "ML Fu",
+              "year": "1994",
+              "unstructured": "Fu ML, Schulze W, Wolf WP, Hjalmarson A, Hoebeke J (1994) Immunocytochemical location of M2 muscarinic receptor in rat ventricles with anti-peptide antibodies. J Histochem Cytochem 42:337–343",
+              "journal-title": "J Histochem Cytochem"
+            },
+            {
+              "key": "20_CR9",
+              "first-page": "146",
+              "volume": "97",
+              "author": "ML Fu",
+              "year": "1994",
+              "unstructured": "Fu ML, Wallukat G, Hjalmarson A, Hoebeke J (1994) Characterization of anti-peptide antibodies directed against an extracellular immunogenic epitope on the human α1-adrenergic receptor. Clin Exp Immunol 97:146–151",
+              "journal-title": "Clin Exp Immunol"
+            },
+            {
+              "key": "20_CR10",
+              "first-page": "151",
+              "volume": "17",
+              "author": "Guidelines Subcommittee",
+              "year": "1999",
+              "unstructured": "Subcommittee Guidelines (1999) 1999 World Health Organization-International Society of Hypertension Guidelines for the management of hypertension. J Hypertension 17:151–183",
+              "journal-title": "J Hypertension"
+            },
+            {
+              "key": "20_CR11",
+              "first-page": "319",
+              "volume": "53",
+              "author": "S Guimaraes",
+              "year": "2001",
+              "unstructured": "Guimaraes S, Moura D (2001) Vascular adrenoceptors: an update. Pharmacol Rev 53:319–356",
+              "journal-title": "Pharmacol Rev"
+            },
+            {
+              "issue": "Suppl 1",
+              "key": "20_CR12",
+              "doi-asserted-by": "crossref",
+              "first-page": "I52",
+              "DOI": "10.1007/s003950070010",
+              "volume": "95",
+              "author": "U Keil",
+              "year": "2000",
+              "unstructured": "Keil U (2000) Coronary artery disease: the role of lipids, hypertension and smoking. Basic Res Cardiol 95(Suppl 1):I52–I58",
+              "journal-title": "Basic Res Cardiol"
+            },
+            {
+              "key": "20_CR13",
+              "first-page": "27",
+              "volume": "9",
+              "author": "AA Khraibi",
+              "year": "1994",
+              "unstructured": "Khraibi AA (1994) Immunoregulatory failure in the pathophysiology of hypertension. News Physiol Sci 9:27–30",
+              "journal-title": "News Physiol Sci"
+            },
+            {
+              "key": "20_CR14",
+              "doi-asserted-by": "crossref",
+              "first-page": "13",
+              "DOI": "10.1056/NEJM199601043340103",
+              "volume": "334",
+              "author": "MJ Klag",
+              "year": "1996",
+              "unstructured": "Klag MJ, Whelton PK, Randall BL, Neaton JD, Brancati FL, Ford CE, Shulman NB, Stamler J (1996) Blood pressure and end-stage renal disease in men. N Engl J Med 334:13–18",
+              "journal-title": "N Engl J Med"
+            },
+            {
+              "key": "20_CR15",
+              "doi-asserted-by": "crossref",
+              "first-page": "1",
+              "DOI": "10.1007/s00395-007-0686-8",
+              "volume": "103",
+              "author": "PE Lazzerini",
+              "year": "2008",
+              "unstructured": "Lazzerini PE, Capecchi PL, Guideri F, Acampa M, Selvi E, Bisogno S, Galeazzi M, Laghi-Pasini F (2008) Autoantibody-mediated cardiac arrhythmias: mechanisms and clinical implications. Basic Res Cardiol 103:1–11",
+              "journal-title": "Basic Res Cardiol"
+            },
+            {
+              "key": "20_CR16",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Li QX, Xiong ZY, Hu BP, Tian ZJ, Zhang HF, Gou WY, Wang HC, Gao F, Zhang QJ (2008) Aging-associated insulin resistance predisposes to hypertension and its reversal by exercise: the role of vascular vasorelaxation to insulin. Basic Res Cardiol [Epub ahead of print]",
+              "DOI": "10.1007/s00395-008-0754-8"
+            },
+            {
+              "key": "20_CR17",
+              "doi-asserted-by": "crossref",
+              "first-page": "641",
+              "DOI": "10.1291/hypres.25.641",
+              "volume": "25",
+              "author": "YH Liao",
+              "year": "2002",
+              "unstructured": "Liao YH, Wei YM, Wang M, Wang ZH, Yuan HT, Cheng LX (2002) Autoantibodies against AT1-receptor and alpha1-adrenergic receptor in patients with hypertension. Hypertens Res 25:641–646",
+              "journal-title": "Hypertens Res"
+            },
+            {
+              "key": "20_CR18",
+              "doi-asserted-by": "crossref",
+              "first-page": "43",
+              "DOI": "10.3109/08916939908995971",
+              "volume": "29",
+              "author": "HR Liu",
+              "year": "1999",
+              "unstructured": "Liu HR, Zhao RR, Zhi JM, Wu BW, Fu ML (1999) Screening of serum autoantibodies to cardiac β1-adrenoceptors and M2-muscarinic acetylcholine receptors in 408 healthy subjects of varying ages. Autoimmunity 29:43–51",
+              "journal-title": "Autoimmunity"
+            },
+            {
+              "key": "20_CR19",
+              "doi-asserted-by": "crossref",
+              "first-page": "678",
+              "DOI": "10.1161/01.HYP.29.2.678",
+              "volume": "29",
+              "author": "HP Luther",
+              "year": "1997",
+              "unstructured": "Luther HP, Homuth V, Wallukat G (1997) Alpha 1-adrenergic receptor antibodies in patients with primary hypertension. Hypertension 29:678–682",
+              "journal-title": "Hypertension"
+            },
+            {
+              "key": "20_CR20",
+              "doi-asserted-by": "crossref",
+              "first-page": "1658",
+              "DOI": "10.1172/JCI114888",
+              "volume": "86",
+              "author": "Y Magnusson",
+              "year": "1990",
+              "unstructured": "Magnusson Y, Marullo S, Hoyer S, Waagsrein F, Andersson B, Vahlne A, Guillet JG, Strosberg AD, Hjalmarson A, Hoebeke J (1990) Mapping of functional autoimmune epitope on the beta 1-adrenergic receptor in patients with idiopathic dilated cardiomyopathy. J Clin Invest 86:1658–1663",
+              "journal-title": "J Clin Invest"
+            },
+            {
+              "key": "20_CR21",
+              "doi-asserted-by": "crossref",
+              "first-page": "1044",
+              "DOI": "10.1161/01.HYP.32.6.1044",
+              "volume": "32",
+              "author": "KP Makaritsis",
+              "year": "1998",
+              "unstructured": "Makaritsis KP, Gavras H, Du Y, Chobanian AV, Brecher P (1998) Alpha1-adrenergic plus angiotensin receptor blockade reduces atherosclerosis in apolipoprotein E-deficient mice. Hypertension 32:1044–1048",
+              "journal-title": "Hypertension"
+            },
+            {
+              "key": "20_CR22",
+              "doi-asserted-by": "crossref",
+              "first-page": "261",
+              "DOI": "10.1536/ihj.39.261",
+              "volume": "39",
+              "author": "S Matsui",
+              "year": "1998",
+              "unstructured": "Matsui S, Fu ML (1998) Myocardial injury due to G-protein coupled receptor-autoimmunity. Jpn Heart J 39:261–274",
+              "journal-title": "Jpn Heart J"
+            },
+            {
+              "key": "20_CR23",
+              "doi-asserted-by": "crossref",
+              "first-page": "591",
+              "DOI": "10.1016/S0140-6736(07)61299-9",
+              "volume": "370",
+              "author": "FH Messerli",
+              "year": "2007",
+              "unstructured": "Messerli FH, Williams B, Ritz E (2007) Essential hypertension. Lancet 370:591–603",
+              "journal-title": "Lancet"
+            },
+            {
+              "key": "20_CR24",
+              "doi-asserted-by": "crossref",
+              "first-page": "749",
+              "DOI": "10.1038/sj.jhh.1001057",
+              "volume": "14",
+              "author": "RB Singh",
+              "year": "2000",
+              "unstructured": "Singh RB, Suh IL, Singh VP, Chaithiraphan S, Laothavorn P, Sy RG, Babilonia NA, Rahman AR, Sheikh S, Tomlinson B, Sarraf-Zadigan N (2000) Hypertension and stroke in Asia: prevalence, control and strategies in developing countries for prevention. J Hum Hypertens 14:749–763",
+              "journal-title": "J Hum Hypertens"
+            },
+            {
+              "key": "20_CR25",
+              "doi-asserted-by": "crossref",
+              "first-page": "598",
+              "DOI": "10.1001/archinte.1993.00410050036006",
+              "volume": "153",
+              "author": "J Stamler",
+              "year": "1993",
+              "unstructured": "Stamler J, Stamler R, Neaton JD (1993) Blood pressure, systolic and diastolic, and cardiovascular risks: US population data. Arch Intern Med 153:598–615",
+              "journal-title": "Arch Intern Med"
+            },
+            {
+              "key": "20_CR26",
+              "doi-asserted-by": "crossref",
+              "first-page": "e3742",
+              "DOI": "10.1371/journal.pone.0003742",
+              "volume": "3",
+              "author": "K Wenzel",
+              "year": "2008",
+              "unstructured": "Wenzel K, Haase H, Wallukat G, Derer W, Barte S, Homuth V, Herse F, Hubner N, Schulz H, Janczikowski M, Lindschau C, Schroeder C, Verlohren S, Morano I, Muller DN, Luft FC, Dietz R, Dechend R, Karczewski P (2008) Potential relevance of α1-adrenergic receptor autoantibodies in refractory hypertension. PLoS ONE 3:e3742",
+              "journal-title": "PLoS ONE"
+            },
+            {
+              "key": "20_CR27",
+              "doi-asserted-by": "crossref",
+              "first-page": "1983",
+              "DOI": "10.1097/00004872-200311000-00002",
+              "volume": "21",
+              "author": "JA Whitworth",
+              "year": "2003",
+              "unstructured": "Whitworth JA, World Health Organization International Society of Hypertension Writing Group (2003) 2003 World Health Organization (WHO)/International Society of Hypertension (ISH) statement on management of hypertension. J Hypertens 21:1983–1992",
+              "journal-title": "J Hypertens"
+            },
+            {
+              "key": "20_CR28",
+              "first-page": "76",
+              "volume": "10",
+              "author": "S Yusuf",
+              "year": "2001",
+              "unstructured": "Yusuf S, Reddy S, Ounpuu S, Anand S (2001) Global burden of cardiovascular diseases. Part α: general considerations, the epidemiologic transition, risk factors, and impact of urbanization. Circulation 10:76–80",
+              "journal-title": "Circulation"
+            },
+            {
+              "key": "20_CR29",
+              "first-page": "274",
+              "volume": "22",
+              "author": "ZH Zhou",
+              "year": "2006",
+              "unstructured": "Zhou ZH, Liao YH, Wang B, Li LD, Wei F, Wang M (2006) Effects of the antibodies against α1-adrenergic receptor on the proliferation of vascular smooth muscle cells in rats. Chin J Pathophysiol 22:274–278",
+              "journal-title": "Chin J Pathophysiol"
+            }
+          ],
+          "doi": "10.1007/s00395-009-0020-8",
+          "authors": [
+            {
+              "given": "Li",
+              "family": "Yan",
+              "sequence": "first",
+              "affiliation": []
+            },
+            {
+              "given": "Yanwu",
+              "family": "Xu",
+              "sequence": "additional",
+              "affiliation": []
+            },
+            {
+              "given": "Hong",
+              "family": "Yao",
+              "sequence": "additional",
+              "affiliation": []
+            },
+            {
+              "given": "Wenxin",
+              "family": "Xue",
+              "sequence": "additional",
+              "affiliation": []
+            },
+            {
+              "given": "Jue",
+              "family": "Tian",
+              "sequence": "additional",
+              "affiliation": []
+            },
+            {
+              "given": "Haiqiang",
+              "family": "Ren",
+              "sequence": "additional",
+              "affiliation": []
+            },
+            {
+              "given": "Ye",
+              "family": "Wu",
+              "sequence": "additional",
+              "affiliation": []
+            },
+            {
+              "given": "Guangzhao",
+              "family": "Yang",
+              "sequence": "additional",
+              "affiliation": []
+            },
+            {
+              "given": "Xin L.",
+              "family": "Ma",
+              "sequence": "additional",
+              "affiliation": []
+            },
+            {
+              "given": "Huirong",
+              "family": "Liu",
+              "sequence": "additional",
+              "affiliation": []
+            }
+          ],
+          "title": [
+            "The effects of autoantibodies against the second extracellular loop of α1-adrenoceptor on vasoconstriction"
+          ]
+        },
+        "score": 0.847653329,
+        "pdf_url": "https://inpharmd-ai.s3.amazonaws.com/pdf-March-12-2023-download-cloud/21012392/s00395-009-0020-8.pdf"
+      },
+      {
+        "prompt": "hypertension",
+        "answer": ". One group of studies hasexamined the association between hypertension in older\n*Corresponding author. Tel.: 617-525-2279; Fax: 617-525-2008.E-mail address: fran.grodstein@channing.harvard.edu\nAlzheimer’s & Dementia 3 (2007) S16–S22\n1552-5260/07/$ – see front matter © 2007 The Alzheimer’s Association. All rights reserved.doi:10.1016/j.jalz.2007.01.001",
+        "metadata": {
+          "references": [
+            {
+              "key": "e_1_2_7_2_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1016/j.jalz.2005.11.004"
+            },
+            {
+              "key": "e_1_2_7_3_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1016/S0197-4580(99)00110-4"
+            },
+            {
+              "key": "e_1_2_7_4_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1016/S0047-6374(01)00364-5"
+            },
+            {
+              "key": "e_1_2_7_5_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1161/01.CIR.0000020190.45892.75"
+            },
+            {
+              "key": "e_1_2_7_6_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1007/s11906-999-0026-5"
+            },
+            {
+              "key": "e_1_2_7_7_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1001/archinte.161.2.152"
+            },
+            {
+              "key": "e_1_2_7_8_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1016/S0140-6736(96)90608-X"
+            },
+            {
+              "key": "e_1_2_7_9_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1001/jama.1995.03530230032026"
+            },
+            {
+              "key": "e_1_2_7_10_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.2337/diacare.20.9.1388"
+            },
+            {
+              "key": "e_1_2_7_11_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1136/bmj.322.7300.1447"
+            },
+            {
+              "key": "e_1_2_7_12_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1016/S0197-4580(00)00096-8"
+            },
+            {
+              "key": "e_1_2_7_13_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1161/01.HYP.31.3.780"
+            },
+            {
+              "key": "e_1_2_7_14_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1161/01.STR.0000217653.01615.93"
+            },
+            {
+              "key": "e_1_2_7_15_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1016/S0140-6736(97)05381-6"
+            },
+            {
+              "key": "e_1_2_7_16_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1016/S0140-6736(98)03086-4"
+            },
+            {
+              "key": "e_1_2_7_17_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1001/archinte.162.18.2046"
+            },
+            {
+              "key": "e_1_2_7_18_2",
+              "first-page": "973",
+              "article-title": "The Systolic Hypertension in the Elderly Program (SHEP): an intervention trial on isolated systolic hypertension—SHEP Cooperative Research Group",
+              "volume": "11",
+              "author": "Probstfield J.L.",
+              "year": "1989",
+              "journal-title": "Clin Exp Hypertens A"
+            },
+            {
+              "key": "e_1_2_7_19_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1001/archinte.1994.00420190047006"
+            },
+            {
+              "key": "e_1_2_7_20_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1093/aje/153.1.72"
+            },
+            {
+              "key": "e_1_2_7_21_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1136/bmj.312.7034.801"
+            },
+            {
+              "key": "e_1_2_7_22_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1161/01.CIR.0000114834.85476.81"
+            },
+            {
+              "key": "e_1_2_7_23_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1001/jama.289.19.2560"
+            },
+            {
+              "key": "e_1_2_7_24_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1056/NEJM199704173361601"
+            },
+            {
+              "key": "e_1_2_7_25_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1056/NEJM200101043440101"
+            },
+            {
+              "issue": "2",
+              "key": "e_1_2_7_26_2",
+              "doi-asserted-by": "crossref",
+              "first-page": "S52",
+              "DOI": "10.1016/S0197-4580(04)80176-3",
+              "article-title": "Plasma cholesterol levels and cognitive function in aging women",
+              "volume": "25",
+              "author": "Devore E.",
+              "year": "2004",
+              "journal-title": "Neurobiol Aging"
+            },
+            {
+              "key": "e_1_2_7_27_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1161/01.ATV.20.10.2255"
+            },
+            {
+              "key": "e_1_2_7_28_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1212/01.WNL.0000149519.47454.F2"
+            },
+            {
+              "key": "e_1_2_7_29_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1001/archneur.61.5.705"
+            },
+            {
+              "key": "e_1_2_7_30_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1001/jama.285.19.2486"
+            },
+            {
+              "key": "e_1_2_7_31_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1161/01.CIR.0000133317.49796.0E"
+            },
+            {
+              "key": "e_1_2_7_32_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1007/s00125-005-0023-4"
+            },
+            {
+              "key": "e_1_2_7_33_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1136/bmj.37977.495729.EE"
+            },
+            {
+              "key": "e_1_2_7_34_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.2337/diabetes.51.4.1256"
+            },
+            {
+              "key": "e_1_2_7_35_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1001/archinte.165.14.1651"
+            },
+            {
+              "key": "e_1_2_7_36_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1212/01.WNL.0000140292.04932.87"
+            },
+            {
+              "key": "e_1_2_7_37_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1056/NEJMoa012512"
+            },
+            {
+              "key": "e_1_2_7_38_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1056/NEJM200105033441801"
+            },
+            {
+              "key": "e_1_2_7_39_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.2337/diacare.27.5.1047"
+            },
+            {
+              "key": "e_1_2_7_40_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1056/NEJMoa041152"
+            },
+            {
+              "key": "e_1_2_7_41_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1001/jama.289.11.1405"
+            },
+            {
+              "key": "e_1_2_7_42_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1161/01.CIR.103.3.472"
+            },
+            {
+              "key": "e_1_2_7_43_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1161/01.CIR.94.11.3023"
+            },
+            {
+              "key": "e_1_2_7_44_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1001/archneur.1995.00540280029015"
+            }
+          ],
+          "doi": "10.1016/j.jalz.2007.01.001",
+          "authors": [
+            {
+              "given": "Francine",
+              "family": "Grodstein",
+              "sequence": "first",
+              "affiliation": [
+                {
+                  "name": "Channing LaboratoryDepartment of MedicineBrigham and Women's HospitalHarvard Medical SchoolBostonMAUSA"
+                }
+              ]
+            }
+          ],
+          "title": [
+            "Cardiovascular risk factors and cognitive function"
+          ]
+        },
+        "score": 0.845780969,
+        "pdf_url": "https://inpharmd-ai.s3.amazonaws.com/pdf-March-06-2023-download-cloud/12957176/j.jalz.2007.01.001.pdf"
+      },
+      {
+        "prompt": "hypertension",
+        "answer": "–95.\n[10] Kivipelto M, Helkala EL, Laakso MP, Hanninen T, Hallikainen M,\nAlhainen K, et al. Midlife vascular risk factors and Alzheimer’sdisease in later life: longitudinal, population based study. BMJ 2001;322:1447–51.\n[11]Laune rLJ,RossGW,Petrovitc hH,Masak iK,FoleyD,Whit eLR,et\nal. Midlife blood pressure and dementia: the Honolulu-Asia agingstudy. Neurobiol Aging 2000;21:49–55.\n[12] Kilander L, Nyman H, Boberg M, Hansson L, Lithell H. Hyperten-\nsion is related to cognitive impairment: a 20-year follow-up of 999men. Hypertension 1998;31:780–6.\n[13] Peila R, White LR, Masaki K, Petrovitch H, Launer LJ. Reducing the\nrisk of dementia: efﬁcacy of long-term treatment of hypertension.Stroke 2006;37:1165–70.\n[14] Staessen JA, Fagard R, Thijs L, Celis H, Arabidze GG, Birkenhager\nWH, et al. Randomised double-blind comparison of placebo andactive treatment for older patients with isolated systolic hypertension:the Systolic Hypertension in Europe (Syst-Eur) trial investigators.Lancet 1997;350:757–64.\n[15] Forette F, Seux ML, Staessen JA, Thijs L, Birkenhager WH, Babar-\nskiene MR, et al. Prevention of dementia in randomised double-blindplacebo-controlled Syst",
+        "metadata": {
+          "references": [
+            {
+              "key": "e_1_2_7_2_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1016/j.jalz.2005.11.004"
+            },
+            {
+              "key": "e_1_2_7_3_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1016/S0197-4580(99)00110-4"
+            },
+            {
+              "key": "e_1_2_7_4_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1016/S0047-6374(01)00364-5"
+            },
+            {
+              "key": "e_1_2_7_5_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1161/01.CIR.0000020190.45892.75"
+            },
+            {
+              "key": "e_1_2_7_6_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1007/s11906-999-0026-5"
+            },
+            {
+              "key": "e_1_2_7_7_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1001/archinte.161.2.152"
+            },
+            {
+              "key": "e_1_2_7_8_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1016/S0140-6736(96)90608-X"
+            },
+            {
+              "key": "e_1_2_7_9_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1001/jama.1995.03530230032026"
+            },
+            {
+              "key": "e_1_2_7_10_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.2337/diacare.20.9.1388"
+            },
+            {
+              "key": "e_1_2_7_11_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1136/bmj.322.7300.1447"
+            },
+            {
+              "key": "e_1_2_7_12_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1016/S0197-4580(00)00096-8"
+            },
+            {
+              "key": "e_1_2_7_13_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1161/01.HYP.31.3.780"
+            },
+            {
+              "key": "e_1_2_7_14_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1161/01.STR.0000217653.01615.93"
+            },
+            {
+              "key": "e_1_2_7_15_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1016/S0140-6736(97)05381-6"
+            },
+            {
+              "key": "e_1_2_7_16_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1016/S0140-6736(98)03086-4"
+            },
+            {
+              "key": "e_1_2_7_17_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1001/archinte.162.18.2046"
+            },
+            {
+              "key": "e_1_2_7_18_2",
+              "first-page": "973",
+              "article-title": "The Systolic Hypertension in the Elderly Program (SHEP): an intervention trial on isolated systolic hypertension—SHEP Cooperative Research Group",
+              "volume": "11",
+              "author": "Probstfield J.L.",
+              "year": "1989",
+              "journal-title": "Clin Exp Hypertens A"
+            },
+            {
+              "key": "e_1_2_7_19_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1001/archinte.1994.00420190047006"
+            },
+            {
+              "key": "e_1_2_7_20_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1093/aje/153.1.72"
+            },
+            {
+              "key": "e_1_2_7_21_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1136/bmj.312.7034.801"
+            },
+            {
+              "key": "e_1_2_7_22_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1161/01.CIR.0000114834.85476.81"
+            },
+            {
+              "key": "e_1_2_7_23_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1001/jama.289.19.2560"
+            },
+            {
+              "key": "e_1_2_7_24_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1056/NEJM199704173361601"
+            },
+            {
+              "key": "e_1_2_7_25_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1056/NEJM200101043440101"
+            },
+            {
+              "issue": "2",
+              "key": "e_1_2_7_26_2",
+              "doi-asserted-by": "crossref",
+              "first-page": "S52",
+              "DOI": "10.1016/S0197-4580(04)80176-3",
+              "article-title": "Plasma cholesterol levels and cognitive function in aging women",
+              "volume": "25",
+              "author": "Devore E.",
+              "year": "2004",
+              "journal-title": "Neurobiol Aging"
+            },
+            {
+              "key": "e_1_2_7_27_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1161/01.ATV.20.10.2255"
+            },
+            {
+              "key": "e_1_2_7_28_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1212/01.WNL.0000149519.47454.F2"
+            },
+            {
+              "key": "e_1_2_7_29_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1001/archneur.61.5.705"
+            },
+            {
+              "key": "e_1_2_7_30_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1001/jama.285.19.2486"
+            },
+            {
+              "key": "e_1_2_7_31_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1161/01.CIR.0000133317.49796.0E"
+            },
+            {
+              "key": "e_1_2_7_32_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1007/s00125-005-0023-4"
+            },
+            {
+              "key": "e_1_2_7_33_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1136/bmj.37977.495729.EE"
+            },
+            {
+              "key": "e_1_2_7_34_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.2337/diabetes.51.4.1256"
+            },
+            {
+              "key": "e_1_2_7_35_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1001/archinte.165.14.1651"
+            },
+            {
+              "key": "e_1_2_7_36_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1212/01.WNL.0000140292.04932.87"
+            },
+            {
+              "key": "e_1_2_7_37_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1056/NEJMoa012512"
+            },
+            {
+              "key": "e_1_2_7_38_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1056/NEJM200105033441801"
+            },
+            {
+              "key": "e_1_2_7_39_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.2337/diacare.27.5.1047"
+            },
+            {
+              "key": "e_1_2_7_40_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1056/NEJMoa041152"
+            },
+            {
+              "key": "e_1_2_7_41_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1001/jama.289.11.1405"
+            },
+            {
+              "key": "e_1_2_7_42_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1161/01.CIR.103.3.472"
+            },
+            {
+              "key": "e_1_2_7_43_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1161/01.CIR.94.11.3023"
+            },
+            {
+              "key": "e_1_2_7_44_2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1001/archneur.1995.00540280029015"
+            }
+          ],
+          "doi": "10.1016/j.jalz.2007.01.001",
+          "authors": [
+            {
+              "given": "Francine",
+              "family": "Grodstein",
+              "sequence": "first",
+              "affiliation": [
+                {
+                  "name": "Channing LaboratoryDepartment of MedicineBrigham and Women's HospitalHarvard Medical SchoolBostonMAUSA"
+                }
+              ]
+            }
+          ],
+          "title": [
+            "Cardiovascular risk factors and cognitive function"
+          ]
+        },
+        "score": 0.842587948,
+        "pdf_url": "https://inpharmd-ai.s3.amazonaws.com/pdf-March-06-2023-download-cloud/12957176/j.jalz.2007.01.001.pdf"
+      }
+    ]
+  }

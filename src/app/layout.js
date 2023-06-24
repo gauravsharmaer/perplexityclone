@@ -1,7 +1,14 @@
+"use client"
 import './globals.css'
-import { Inter } from 'next/font/google'
+import {  Poppins } from 'next/font/google'
+import { Provider } from 'react-redux'
+import store from '@/store/Index'
 
-const inter = Inter({ subsets: ['latin'] })
+
+const poppins = Poppins({
+  weight: '400',
+  subsets: ['latin'],
+})
 
 export const metadata = {
   title: 'Create Next App',
@@ -11,7 +18,15 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+    <Provider store={store}>
+      <body className={poppins.className}>
+     
+      <main>
+        {children}
+        </main>
+       
+      </body>
+      </Provider>
     </html>
   )
 }

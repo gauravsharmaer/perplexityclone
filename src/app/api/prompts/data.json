@@ -1,0 +1,204 @@
+{
+    "prompts": [
+        {
+            "prompt": "hypertension",
+            "answer": "Hypertension is a medical condition characterized by high blood pressure.The ICD-10 codes for hypertension are as follows:Hypertension is a medical condition characterized by high blood pressure. The ICD-10 codes Hypertension is a medical condition characterized by high blood pressure. The ICD-10 codes Hypertension is a medical condition characterized by high blood pressure. The ICD-10 codes Hypertension is a medical condition characterized by high blood pressure. The ICD-10 codes Hypertension is a medical condition characterized by high blood pressure. The ICD-10 codes Hypertension is a medical condition characterized by high blood pressure. The ICD-10 codes Hypertension is a medical condition characterized by high blood pressure. The ICD-10 codes Hypertension is a medical condition characterized by high blood pressure. The ICD-10 codes Hypertension is a medical condition characterized by high blood pressure. The ICD-10 codes Hypertension is a medical condition characterized by high blood pressure. The ICD-10 codes Hypertension is a medical condition characterized by high blood pressure. The ICD-10 codes Hypertension is a medical condition characterized by high blood pressure. The ICD-10 codes ",
+            "references": [
+                {
+                    "link": "https://www.icd10data.com/ICD10CM/Codes/I00-I99/I10-I16/I10-/I10",
+                    "title": "pubmed",
+                    "description": "I10 Essential (primary) hypertension.",
+                    "num":1
+                },
+                {
+                    "link": "https://www.icd10data.com/ICD10CM/Codes/I00-I99/I10-I16/I11-/I11",
+                    "title": "Healthcare",
+                    "description": "I11 Hypertensive heart disease.",
+                    "num":2
+                }
+            ],
+            "related_query_answers": [
+              {
+                "ques": "What are the symptoms of hypertension?",
+                "ans": "some random answer",
+
+                "id":1
+              } 
+              ,
+              
+                
+              {
+                "ques": "what to do in case of hypertension?",
+                "ans": "some random answer",
+                 "id":2
+              } 
+                
+            ]
+        },
+        {
+            "prompt": "asthma",
+            "answer": "Asthma is a chronic respiratory condition characterized by inflammation and narrowing of the airways. The ICD-10 codes for asthma are as follows:",
+            "references": [
+                {
+                    "link": "https://www.icd10data.com/ICD10CM/Codes/J00-J99/J45-J45/J45-/",
+                    "title": "www",
+                    "description": "J45.20 Mild intermittent asthma, unspecified · J45.21 Mild intermittent asthma with (acute) exacerbation."
+                }
+            ],
+            "related_query_answers": [
+                {
+                  "ques": "What are the symptoms of asthma?",
+                  "ans": "some random answer"
+                } 
+                ,
+                
+                  
+                {
+                  "ques": "What are the symptoms of asthma2?",
+                  "ans": "some random answer"
+                } 
+                  
+              ]
+        },
+        {
+            "prompt": "diabetes mellitus",
+            "answer": "Diabetes mellitus is a group of metabolic diseases characterized by high blood sugar levels. The ICD-10 codes for diabetes mellitus are as follows:",
+            "references": [
+                {
+                    "link": "https://www.icd10data.com/ICD10CM/Codes/E00-E89/E08-E13/E10-/",
+                    "title": "www",
+                    "description": "E10.9 Type 1 diabetes mellitus without complications · E10.65 Type 1 diabetes mellitus with hyperglycemia."
+                }
+            ],
+            "related_query_answers": [
+                {
+                  "ques": "What are the symptoms of diabetes mellitus?",
+                  "ans": "some random answer"
+                } 
+                ,
+                
+                  
+                {
+                  "ques": "What are the symptoms of diabetes mellitus?",
+                  "ans": "some random answer"
+                } 
+                  
+              ]
+        },
+        {
+            "prompt": "myocardial infarction",
+            "answer": "Myocardial infarction, also known as a heart attack, occurs when the blood flow to a part of the heart is blocked. The ICD-10 codes for myocardial infarction are as follows:",
+            "references": [
+                {
+                    "link": "https://www.icd10data.com/ICD10CM/Codes/I00-I99/I20-I25/I21-/I21.9",
+                    "title": "www",
+                    "description": "I21.0 ST elevation (STEMI) myocardial infarction of anterior wall · I21.1 ST elevation (STEMI) myocardial infarction of inferior wall."
+                }
+            ],
+            "related_query_answers": [
+                {
+                  "ques": "What are the symptoms of myocardial infarction?",
+                  "ans": "some random answer"
+                } 
+                ,
+                
+                  
+                {
+                  "ques": "What are the symptoms of myocardial infarction?",
+                  "ans": "some random answer"
+                } 
+                  
+              ]
+        },
+        {
+            "prompt": "arthritis",
+            "answer": "Arthritis is an inflammation of the joints, leading to pain, swelling, and restricted movement. The ICD-10 codes for arthritis are as follows:",
+            "references": [
+                {
+                    "link": "https://www.icd10data.com/ICD10CM/Codes/M00-M99/M15-M19/M15-/",
+                    "title": "www",
+                    "description": "M15.0 Primary generalized (osteo)arthritis · M15.1 Heberden's nodes with arthropathy."
+                }
+            ],
+            "related_query_answers": [
+                "What are the different types of arthritis?",
+                "How is arthritis diagnosed and treated?"
+            ]
+        },
+        {
+            "prompt": "anemia",
+            "answer": "Anemia is a condition characterized by a deficiency of red blood cells or of hemoglobin in the blood. The ICD-10 codes for anemia are as follows:",
+            "references": [
+                {
+                    "link": "https://www.icd10data.com/ICD10CM/Codes/D50-D89/D60-D64/D64-/",
+                    "title": "www",
+                    "description": "D64.9 Anemia, unspecified · D64.0 Hereditary sideroblastic anemia · D50.0 Iron deficiency anemia secondary to blood loss (chronic) ."
+                }
+            ],
+            "related_query_answers": [
+                "What are the common symptoms of anemia?",
+                "What are the different types of anemia?"
+            ]
+        },
+        {
+            "prompt": "urinary incontinence",
+            "answer": "Urinary incontinence is the involuntary leakage of urine. The ICD-10 codes for urinary incontinence are as follows:",
+            "references": [
+                {
+                    "link": "https://www.icd10data.com/ICD10CM/Codes/N00-N99/N39-N39/N39-/",
+                    "title": "www",
+                    "description": "N39.3 Stress incontinence (female) (male) · N39.4 Other specified urinary incontinence."
+                }
+            ],
+            "related_query_answers": [
+                "What are the common causes of urinary incontinence?",
+                "How is urinary incontinence treated?"
+            ]
+        },
+        {
+            "prompt": "migraine",
+            "answer": "Migraine is a neurological condition characterized by severe headaches and a wide range of accompanying symptoms. The ICD-10 codes for migraine are as follows:",
+            "references": [
+                {
+                    "link": "https://www.icd10data.com/ICD10CM/Codes/G00-G99/G43-G43/G43-/",
+                    "title": "www",
+                    "description": "G43.0 Migraine without aura · G43.1 Migraine with aura."
+                }
+            ],
+            "related_query_answers": [
+                "What are the common symptoms of a migraine?",
+                "What are the triggers for migraine attacks?"
+            ]
+        },
+        {
+            "prompt": "osteoporosis",
+            "answer": "Osteoporosis is a condition that causes bones to become weak and brittle, increasing the risk of fractures. The ICD-10 codes for osteoporosis are as follows:",
+            "references": [
+                {
+                    "link": "https://www.icd10data.com/ICD10CM/Codes/M00-M99/M80-M82/M81-/",
+                    "title": "www",
+                    "description": "M81.0 Age-related osteoporosis without current pathological fracture · M81.6 Localized osteoporosis [Lequesne]."
+                }
+            ],
+            "related_query_answers": [
+                "What are the risk factors for osteoporosis?",
+                "How is osteoporosis diagnosed and treated?"
+            ]
+        },
+        {
+            "prompt": "pneumonia",
+            "answer": "Pneumonia is an inflammatory lung condition caused by bacterial, viral, or fungal infection. The ICD-10 codes for pneumonia are as follows:",
+            "references": [
+                {
+                    "link": "https://www.icd10data.com/ICD10CM/Codes/J00-J99/J12-J18/J18-/",
+                    "title": "www",
+                    "description": "J18.9 Pneumonia, unspecified organism · J13 Pneumonia due to Streptococcus pneumoniae."
+                }
+            ],
+            "related_query_answers": [
+                "What are the symptoms of pneumonia?",
+                "How is pneumonia treated and prevented?"
+            ]
+        }
+    ]
+}
