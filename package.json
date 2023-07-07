@@ -20,6 +20,7 @@
     "@mui/material": "^5.13.5",
     "@reduxjs/toolkit": "^1.9.5",
     "autoprefixer": "10.4.14",
+    "axios": "^1.4.0",
     "cheerio": "^1.0.0-rc.12",
     "clipboard-copy": "^4.0.1",
     "eslint": "8.42.0",

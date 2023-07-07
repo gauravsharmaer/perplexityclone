@@ -10,15 +10,20 @@ import Modal from './Modal';
 import AccuracyModel from './AccuracyModel';
 import ThumbUpAltIcon from '@mui/icons-material/ThumbUpAlt';
 import ThumbDownIcon from '@mui/icons-material/ThumbDown';
-
+import { updatequestion } from '@/store/Slice';
+import { useDispatch } from 'react-redux';
 
 const FunctionalButtons = (props) => {
- const {reply,link,inputRef} =props
+ const {reply,link,inputRef,id} =props
  
   const[showModel,setShowModal]=useState(false)
   const[showaModel,setShowaModal]=useState(false)
   const[like,setLike]=useState(true)
   const[unlike,setUnLike]=useState(false)
+  const[flagIndicator,setFlagIndicator]=useState(false)
+  const dispatch=useDispatch()
+
+
 const handleEdit =()=>{
   inputRef.current.focus()
 }
@@ -37,11 +42,14 @@ const handleEdit =()=>{
   };
 
 const handlelike=()=>{
+  
+  dispatch(updatequestion({prompt_result_id:id,like:true}))
   setLike(false)
   setUnLike(true)
 }
 
 const handleUnlike=()=>{
+  dispatch(updatequestion({prompt_result_id:id,like:false}))
   setLike(true)
   setUnLike(false)
 }
@@ -49,14 +57,17 @@ const handleUnlike=()=>{
   return (
     <>
     <div className='flex flex-row items-center gap-4  mx-4 mt-3'>
-        <button onClick={()=>setShowaModal(true)} > <Tooltip title="Not Accurate" className='hover:text-red-500'><FlagIcon className='h-5'/></Tooltip></button>
+        <button onClick={()=>setShowaModal(true)} > <Tooltip title="Not Accurate" className= {flagIndicator? "text-red-500":""}><FlagIcon className='h-5'/></Tooltip></button>
+
+
+
         <button onClick={()=>setShowModal(true)}> <Tooltip title="View Sources"><DataArrayIcon className="hover:text-blue-600 h-5"/></Tooltip></button>
         <button onClick={handleCopy}> <Tooltip title="Copy to Clipboard"><ContentPasteIcon className="hover:text-blue-600 h-[18px]"/></Tooltip></button>
         <button onClick={handleEdit}> <Tooltip title="Edit Query"><EditCalendarIcon className="hover:text-blue-600 h-[18px]"/></Tooltip></button>
          {like ?<button><ThumbUpAltIcon onClick={handlelike} className='hover:text-blue-600'/></button> : <button><Tooltip title="unlike the solution"><ThumbDownIcon onClick={handleUnlike} className='hover:text-red-600 '/></Tooltip></button>}
     </div>
     <Modal isVisible={showModel} onClose={()=>setShowModal(false) }  link={link}  />
-    <AccuracyModel isVisible={showaModel} onClose={()=>setShowaModal(false) } />
+    <AccuracyModel isVisible={showaModel} onClose={()=>setShowaModal(false) } id={id} flagIndicator={setFlagIndicator}/>
 
 </>
   )

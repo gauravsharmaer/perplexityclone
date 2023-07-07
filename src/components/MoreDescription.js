@@ -28,7 +28,7 @@ const MoreDescription = (props) => {
           >
             x
           </button>
-          <div className='bg-white font-bold text-[24px] shadow-xl py-1 text-center'>Description</div>
+          <div className='bg-white font-bold text-[24px] shadow-xl py-1 text-center '>Description</div>
     
 
           <div className='bg-white p-2 rounded mb-2 py-4 px-6 text-[12px] sm:text-[14px]'>

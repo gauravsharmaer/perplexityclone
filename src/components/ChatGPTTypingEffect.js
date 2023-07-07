@@ -1,7 +1,7 @@
 "use client"
 import React, { useState, useEffect } from 'react';
 
-const ChatGPTTypingEffect = ({message,  input,title }) => {
+const ChatGPTTypingEffect = ({message,  input }) => {
   // const message =useSelector((state)=>state.user.prompts[0]?.answer)
 console.log(message)
   const [typingMessage, setTypingMessage] = useState('');
@@ -74,7 +74,7 @@ export default ChatGPTTypingEffect;
 //     {reply.map((item,i)=>{
 //       return(
 //         <div key={i}>
-//         <p className='font-bold' >{item.metadata.title}</p>
+//         <p className='font-bold' >{item.metadata}</p>
 //                   <p className='mb-2'>{item.answer}</p>
 //         </div>
 //       )
